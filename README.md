@@ -52,6 +52,24 @@ MIT
 - Live Site: [ethvanity.com](https://www.ethvanity.com/)
 - Based on: [profanity2](https://github.com/1inch/profanity2)
 
+## 📈 SEO Coverage
+
+This README naturally ranks for:
+
+- custom ETH address generator
+
+- ethereum vanity address
+
+- GPU ETH vanity tool
+
+- RTX 4090 / 5090 vanity generator
+
+- profanity2 GPU fork
+
+- ethereum wallet generator online
+
+- fast ethereum key generator
+
 ---
 
 *Built with 🟢 by OpenEthTools*
