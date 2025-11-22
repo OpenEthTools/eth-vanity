@@ -1,4 +1,4 @@
-![Banner](./banner_vanity.png)
+![Banner](./banner_repo.png)
 
 # eth-vanity
 
