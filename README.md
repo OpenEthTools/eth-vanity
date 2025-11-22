@@ -1,6 +1,6 @@
 ![Banner](./banner_repo.png)
 
-# eth-vanity
+# ETH-Vanity
 
 High-performance Ethereum vanity address generator powered by RTX 5090 GPUs.
 
